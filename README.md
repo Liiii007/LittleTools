@@ -11,7 +11,7 @@
 ```
 
 ## 小工具列表
-### Timer
+### [LittleTools-Timer](https://github.com/ZZZ12138/LittleTools/wiki/Timer)
 一个计算代码耗时的小工具，重新封装了chrono以便适应轻量化使用计时工具
 原有的代码真的是太长了不好写（哭
 
